@@ -18,13 +18,33 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="50"/><br>Python
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/django.png" width="50"/><br>Django
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="50"/><br>React
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/tailwind_css.png" width="50"/><br>Tailwind CSS
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="50"/><br>HTML5
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="50"/><br>CSS3
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="50"/><br>GitHub
+</p>
 
 ---
 
