@@ -1,6 +1,7 @@
 ## Hi there 👋
 nxj
-![Uploading R2KUJXDZJEI6PN3IU2FBL75QII.jpg…]()
+![My Banner](assets/banner.png)
+
 
 
 <!--
