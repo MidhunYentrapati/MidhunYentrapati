@@ -1,6 +1,7 @@
 ## Hi there 👋
 nxj
-[My Banner](assets/banner.png)
+<img src = "assets/banner.png" alt = 'My Banner'>
+
 
 
 
