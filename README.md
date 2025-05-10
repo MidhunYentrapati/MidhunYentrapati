@@ -1,6 +1,6 @@
 ## Hi there 👋
 nxj
-![My Banner](assets/banner.png)
+[My Banner](assets/banner.png)
 
 
 
