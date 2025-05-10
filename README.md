@@ -18,33 +18,58 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="50"/><br>Python
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/django.png" width="50"/><br>Django
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="50"/><br>React
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/tailwind_css.png" width="50"/><br>Tailwind CSS
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="50"/><br>HTML5
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="50"/><br>CSS3
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="50"/><br>GitHub
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="50"/><br>Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="50"/><br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="50"/><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/react-native.png" width="50"/><br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/django.png" width="50"/><br>Django
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="50"/><br>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/css3.png" width="50"/><br>CSS3
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="50"/><br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="50"/><br>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/ios-filled/96/4D4D4D/sqlite.png" width="50"/><br>SQLite
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/offices/96/000000/php-logo.png" width="50"/><br>PHP
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/000000/vercel.png" width="50"/><br>Vercel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="50"/><br>GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/ffffff/external-chatgpt-openai-artificial-intelligence-chatbot-logo-filled-tal-revivo.png" width="50"/><br>ChatGPT
+    </td>
+  </tr>
+</table>
 
 ---
 
