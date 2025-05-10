@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Tech Explorer | 🧠 ML Enthusiast | 🎯 Community Builder</h3>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Eideofy Banner" width="80%" />
+  <img src="assets/banner.png" alt="It's me" width="80%" height = "50%"/>
 </p>
 
 ---
