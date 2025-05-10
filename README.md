@@ -19,7 +19,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" border: 1px solid black;
+  border-radius: 10px;>
       <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="50"/><br>Python
     </td>
     <td align="center" width="120">
