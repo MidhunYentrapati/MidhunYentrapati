@@ -15,7 +15,6 @@
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 <table align="center">
@@ -52,26 +51,19 @@
       <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="50"/><br>MongoDB
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/ios-filled/96/4D4D4D/sqlite.png" width="50"/><br>SQLite
-    </td>
-    <td align="center" width="120">
       <img src="https://img.icons8.com/offices/96/000000/php-logo.png" width="50"/><br>PHP
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/color/96/000000/vercel.png" width="50"/><br>Vercel
+      <img src="https://assets.vercel.com/image/upload/front/vercel/twitter-card.png" width="50"/><br>Vercel
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="50"/><br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/ffffff/external-chatgpt-openai-artificial-intelligence-chatbot-logo-filled-tal-revivo.png" width="50"/><br>ChatGPT
     </td>
   </tr>
 </table>
 
 ---
+
 
 ### ✨ Fun Facts
 
